@@ -7,7 +7,10 @@
 
 ###
 
-<h2 align="left">Sobre mim 🙋‍♂️</h2>
+<h2 align="left">Sobre mim 🙋‍♂️
+<img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/f6133434-f674-4cf5-b3e6-2148738bb1ce" />
+<img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/f6133434-f674-4cf5-b3e6-2148738bb1ce" />
+</h2>
 
 ###
 
