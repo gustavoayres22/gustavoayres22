@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">Sobre mim $ git push origin main🙋‍♂️</h2>
+<h2 align="left">Sobre mim 🙋‍♂️</h2>
 
 ###
 
