@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 <h1 align="left">Seja bem vindo(a) ao meu perfil!</h1>
 
 ###
