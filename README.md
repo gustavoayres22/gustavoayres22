@@ -7,11 +7,11 @@
 
 ###
 
-<h2 align="left">Sobre mim - teste</h2>
+<h2 align="left">Sobre mim 🙋‍♂️</h2>
 
 ###
 
-<p align="left">✨ Gosto de viagens em família<br>📚 Gosto de me aventurar <br>🎯 Tenho meus próprios objetivos e vai corinthians<br>🎲Utilizo a IA para impulsionar meus projetos e minha capacidade de aprender</p>
+<p align="left">✈️ Gosto de viagens em família<br>📚 Gosto de me aventurar <br>🎯 Tenho meus próprios objetivos e vai corinthians<br>🎲Utilizo a IA para impulsionar meus projetos e minha capacidade de aprender</p>
 
 ###
 
