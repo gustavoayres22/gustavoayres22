@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✈️ Gosto de viagens em família<br>📚 Gosto de me aventurar <br>🎯 Tenho meus próprios objetivos e vai corinthians<br>🎲Utilizo a IA para impulsionar meus projetos e minha capacidade de aprender</p>
+<p align="left">✈️ Gosto de viagens em família<br>📚 Gosto de me aventurar <br>🎯 Tenho meus próprios objetivos<br>🎲Utilizo a IA para impulsionar meus projetos e minha capacidade de aprender</p>
 
 ###
 
